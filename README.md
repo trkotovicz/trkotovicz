@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, my name is Thais Kotovicz</h1>
-<h3 align="center">I'm a web developer student</h3>
+<h3 align="center">I'm a web developer</h3>
 
 - 🌱 I’m a **BackEnd** developer
 
