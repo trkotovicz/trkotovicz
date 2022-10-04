@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Thais Kotovicz</h1>
-<h3 align="center">A passionate backend developer from Brazil</h3>
+<h3 align="center">A passionate developer from Brazil</h3>
 
-- 👾 I have knowledge on **FrontEnd**
+- 🖥 I'm a **backend** developer
+
+- 👾 Also, I have knowledge on **FrontEnd**
 
 - 📫 How to reach me **thais_kotovicz@hotmail.com**
 
