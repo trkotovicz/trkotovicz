@@ -7,7 +7,7 @@
 
 - 📕 Currently, I'm learning **computer science**
 
-- 🚀 I'm always looking to learn new languages and techs and, grow into those I already know.
+- 🚀 I'm always looking to learn new languages and techs and grow into those I already know.
 
 - 📫 How to reach me **thais_kotovicz@hotmail.com**
 
