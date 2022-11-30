@@ -5,7 +5,7 @@
 
 - 👾 Also, I have knowledge on **FrontEnd**
 
-- 📕 Currently, I'm learning **computer science** with **Python**
+- 📕 Currently, I'm learning **computer science** and **Python**
 
 - 🚀 I'm always looking to learn new languages and techs and grow into those I already know.
 
