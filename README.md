@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **computer science and Python**
 
-- 📕 I'm seeking for my **Data Analysis certificate from Google**
+- 📕 Seeking for my **Data Analytics certificate from Google**
 
 - 🚀 I'm always looking to **learn new languages and techs and grow into those I already know.**
 
