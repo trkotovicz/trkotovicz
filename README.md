@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thais Kotovicz</h1>
-<h3 align="center">A passionate developer from Brazil</h3>
+<h3 align="center">A passionate web developer from Brazil</h3>
 
 - 🖥 I'm a **backend** developer
 
