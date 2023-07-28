@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Thais Kotovicz</h1>
+<h1 align="center">Hi, I'm Thais Kotovicz</h1>
 <h3 align="center">A passionate web developer from Brazil</h3>
 
 - 🖥 I'm a **backend developer**
 
 - 👾 Also, I have knowledge on **FrontEnd**
 
-- 🌱 I’m currently learning **computer science and Python**
+- 📕 I’m currently learning **Python**
 
-- 📕 Seeking for my **Data Analytics certificate from Google**
+- 🎓 Seeking for my degree in **Systems Analysis and Development**
 
-- 🚀 I'm always looking to **learn new languages and techs and grow into those I already know.**
+- 🚀 I'm always looking to **learn new things and grow into those I already know.**
 
 - 📫 How to reach me **thais_kotovicz@hotmail.com**
 
